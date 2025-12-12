@@ -1,0 +1,5 @@
+{
+  "name": "B2B Lead Qualifier AI",
+  "description": "Intelligent lead qualification tool that extracts contact info and detects chatbot opportunities from raw website text using Gemini AI.",
+  "requestFramePermissions": []
+}
